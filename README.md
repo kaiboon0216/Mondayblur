@@ -1,7 +1,7 @@
 # Mondayblur
 A simple django application which provides a platform for students to ask questions.
 
-For more info, can refer the documentation pdf file in the reference folder
+For more info, please refer to the documentation pdf file in the reference folder
 
 # How to start the app?
 I have hosted the app on heroku, feel free to click this [link](https://mondayblur.herokuapp.com/) and try to explore.
